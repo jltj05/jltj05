@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure, Computer System & Discrete Mathematic**
 
-- 💬 Ask me about **Java, Python,**
+- 💬 Ask me about **Java, Python, HTML, CSS**
 
 - 📫 How to reach me **josephlau2005@gmail.com**
 
